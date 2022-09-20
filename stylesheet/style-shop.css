@@ -3269,6 +3269,7 @@
   }
   .featured-title-heading {
     word-break: break-word;
+    font-size: 63px;
   }
   body.single-post .has-sidebar > * {
     max-width: calc(100% - 30px);
@@ -15538,5 +15539,112 @@
       > div {
       height: 450px !important;
     }
+  }
+  
+
+  body main#primary .special-box ul li:before {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/check-white.svg);
+  }
+  .tfl-testimonials-slider.tfl-testimonials-style-style1
+    .tfl-testimonial
+    .tfl-testimonial-text:before {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/bg-testimonials.png);
+  }
+  .post-read-more a .icon-right-arrow {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/right-arrow.svg);
+  }
+  body.single-service main#primary .service-contact ul li .title i.icon-ceo {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/user.svg);
+  }
+  body.single-service main#primary .service-contact ul li .title i.icon-phone {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/phone.svg);
+  }
+  body.single-service main#primary .service-contact ul li .title i.icon-location {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/location.svg);
+  }
+  body.single-service main#primary .service-contact ul li .title i.icon-mail {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/email.svg);
+  }
+  .service-categories ul li:hover:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/service-arrow2.svg);
+  }
+  .service-categories ul li:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/service-arrow.svg);
+  }
+  .service-categories ul li:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/service-arrow.svg);
+  }
+  body.page-faq
+    main#primary
+    .elementor-widget-wp-widget-nav_menu
+    ul
+    li:hover:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/caret-left-white.svg);
+  }
+  body.page-faq main#primary .elementor-widget-wp-widget-nav_menu ul li:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/caret-left.svg);
+  }
+  .special-box:before {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/special-img.png);
+  }
+  .testimonial-img-float:before {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/special-img2.png);
+  }
+  .widget_categories ul li a:after {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/caret-left.svg);
+  }
+  .tfl_standard_style.single-post main#primary .entry-content ul li:before {
+    background-image: url(https://gettreewp.themesflat.com/wp-content/themes/gettree/assets/images/check.svg);
+  }
+  body #featured-title {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  body #featured-title .breadcrum-overlay {
+    background-color: #0f4229;
+    opacity: 0.74;
+    filter: alpha(opacity = 0.74);
+  }
+  article.service .service-inner .box-content .left-content svg ellipse,
+  article.service .service-inner .box-content .left-content svg path,
+  body.page-contact main#primary .tfl-iconbox svg path,
+  body.page-home-1
+    main#primary
+    .has-box-shadow
+    .tfl-iconbox.tfl-style1
+    svg
+    ellipse,
+  body.page-home-1 main#primary .has-box-shadow .tfl-iconbox.tfl-style1 svg path,
+  .tfl-logo-footer-items .wrap-logo rect,
+  .tfl-logo-footer-item-wrapper svg path {
+    fill: #348e38;
+  }
+  .tfl-circlebox .sub-image svg g {
+    stroke: #348e38;
+  }
+  .loading-effect-2 > span,
+  .loading-effect-2 > span:before,
+  .loading-effect-2 > span:after {
+    border: 2px solid#348e38 !important;
+  }
+  .loading-effect-2 > span {
+    border-left-color: transparent !important;
+  }
+  .loading-effect-2 > span:before {
+    border-right-color: transparent !important;
+  }
+  .loading-effect-2 > span:after {
+    border-bottom-color: transparent !important;
+  }
+  #featured-title {
+    padding: 106px 0;
+  }
+  .desktop-header .header-1,
+  .header-1 {
+    background-color: #e8f6e9;
+  }
+  .header-1 .bottom-header:before {
+    background-color: #fff !important;
   }
   
