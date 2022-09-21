@@ -5917,6 +5917,7 @@
     letter-spacing: -0.05em;
     display: block;
     margin-top: -2px;
+    font-size: 22px;
   }
   .tfl-products .product-inner .price .woocommerce-Price-amount {
     display: block;
